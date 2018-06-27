@@ -1,5 +1,5 @@
 
-Use this browser extension for Google Chrome to save some time with your research tasks!
+Use this browser extension  to save some time with your research tasks!
 
 ### Contribute
 
